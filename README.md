@@ -1,2 +1,2 @@
-# loan-assistant
+# GetFunded App
 Building a project that enables creditors to implement a robust technology that will capture data from an online loan applicant and making the app helpful in determining the risk score of the loan applicant based on one's profile top relevant data input and so with the guarantee based on submitted documents coming from established government institutions such as but not limited to Registry of Deeds here in the Philippines for example , and from other government institutions basically required  in granting of loans to private entities, entrepreneurs, small and medium enterprises, macro enterprises, corporations, banks, etc. and also grounded based on the financial capacity score of the loan applicant.
